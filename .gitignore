@@ -1,3 +1,5 @@
 php/composer.lock
 php/bin/*
 php/vendor/*
+javascript/npm-debug.log
+javascript/node_modules/*

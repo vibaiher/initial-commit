@@ -1,0 +1,19 @@
+{
+  "name": "Acme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.1.0"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha test"
+  },
+  "keywords": [
+    "acme"
+  ],
+  "author": "",
+  "license": "ISC"
+}
