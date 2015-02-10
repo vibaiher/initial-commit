@@ -1,10 +1,10 @@
 Prerequisites
 -------------
 
-# NodeJS
+1. NodeJS
 
 Installation
 ------------
 
-# run `npm install`
-# check mocha `npm test`
+1. run `npm install`
+2. check mocha `npm test`
